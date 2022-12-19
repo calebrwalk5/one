@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main() {
-  printf("%d\n", 100000001 / 17);
+  printf("100000001 / 17 = %d\n", 100000001 / 17);
   return 0;
 }
